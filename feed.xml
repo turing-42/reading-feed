@@ -5,12 +5,17 @@
     <link>https://turing-42.github.io/reading-feed/feed.xml</link>
     <description>每天一篇，约30分钟阅读量。当前在读：《智人之上：从石器时代到AI时代的信息网络简史》</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 09 Aug 2026 21:07:38 +0800</lastBuildDate>
+    <image>
+      <url>https://turing-42.github.io/reading-feed/favicon.ico</url>
+      <title>每日阅读</title>
+      <link>https://turing-42.github.io/reading-feed/feed.xml</link>
+    </image>
+    <lastBuildDate>Sun, 09 Aug 2026 21:09:53 +0800</lastBuildDate>
         <item>
       <title>《智人之上：从石器时代到AI时代的信息网络简史》第1篇 · 序言</title>
       <link>https://turing-42.github.io/reading-feed/feed.xml</link>
       <guid isPermaLink="false">reading-2026-08-09-0</guid>
-      <pubDate>Sun, 09 Aug 2026 21:07:38 +0800</pubDate>
+      <pubDate>Sun, 09 Aug 2026 21:09:53 +0800</pubDate>
       <description>序言 人类把自己这个物种命名为智人——有智慧的人类。但我们究竟配不配得上这个称号，实在还有待商榷。 过去10万年间，我们智人确实积攒了巨大的力量，光是要列出人类所有的发现、发明和征服的事物，没有厚厚的几本书根本就装不下。然而，有力量并不等于有智慧，经过10万年的发现、发明与征服，人类已经把自己推向了一场生存危机。由于滥用各种力量，人类已然处于生态崩溃的边缘。人类现在还忙着创造像人工智能（AI）这样</description>
       <content:encoded><![CDATA[<h1>序言</h1>
 <p>人类把自己这个物种命名为智人——有智慧的人类。但我们究竟配不配得上这个称号，实在还有待商榷。</p>
