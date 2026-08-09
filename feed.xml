@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>每日阅读</title>
+    <link>https://turing-42.github.io/reading-feed/feed.xml</link>
+    <description>每日阅读进度推送</description>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 01 Jan 1970 00:00:00 GMT</lastBuildDate>
+  </channel>
+</rss>
