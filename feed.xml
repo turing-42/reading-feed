@@ -10,59 +10,61 @@
       <title>每日阅读</title>
       <link>https://turing-42.github.io/reading-feed/feed.xml</link>
     </image>
-    <lastBuildDate>Tue, 11 Aug 2026 05:00:10 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 05:00:23 +0800</lastBuildDate>
         <item>
-      <title>《智人之上：从石器时代到AI时代的信息网络简史》第2篇 · 民粹的信息观</title>
+      <title>《智人之上：从石器时代到AI时代的信息网络简史》第3篇 · 第一部分 人类网络</title>
       <link>https://turing-42.github.io/reading-feed/feed.xml</link>
-      <guid isPermaLink="false">reading-2026-08-11-1</guid>
-      <pubDate>Tue, 11 Aug 2026 05:00:10 +0800</pubDate>
-      <description>自2016年以来，还有许多事也发生了变化。生态危机加剧，国际紧张局势升温，而一波民粹主义浪潮甚至让全球最强大的几个民主政体也为之动摇。民粹主义也对天真的信息观造成严重的挑战。不管是唐纳德·特朗普、巴西前总统雅伊尔·博索纳罗这样的民粹主义领导人，还是像匿名者Q和反疫苗者这样的民粹主义运动与阴谋论者，都认为有些传统机构制度只是声称自己在收集信息、找寻真理与真相，以此取得权力，但其实都是在说谎。在他们看</description>
-      <content:encoded><![CDATA[<blockquote style="border-left:3px solid #999;margin:0 0 1.2em;padding:0.2em 0 0.2em 0.9em;color:#555;"><p><b>📌 上一篇回顾（《智人之上：从石器时代到AI时代的信息网络简史》第1篇）</b></p><p>人类把自己这个物种命名为智人——有智慧的人类。但我们究竟配不配得上这个称号，实在还有待商榷。
-过去10万年间，我们智人确实积攒了巨大的力量，光是要列出人类所有的发现、发明和征服的事物，没有厚厚的几本书根本就装不下。</p></blockquote><p>自2016年以来，还有许多事也发生了变化。生态危机加剧，国际紧张局势升温，而一波民粹主义浪潮甚至让全球最强大的几个民主政体也为之动摇。民粹主义也对天真的信息观造成严重的挑战。不管是唐纳德·特朗普、巴西前总统雅伊尔·博索纳罗这样的民粹主义领导人，还是像匿名者Q和反疫苗者这样的民粹主义运动与阴谋论者，都认为有些传统机构制度只是声称自己在收集信息、找寻真理与真相，以此取得权力，但其实都是在说谎。在他们看来，那些官僚、法官、医生、主流记者和学术专家就是一个精英阴谋集团，他们对真相没有半点兴趣，总在故意传播虚假信息，牺牲“人民”的利益来谋取自己的特权。像特朗普这类政治人物以及匿名者Q这类运动的崛起，有着21世纪10年代末期美国所特有的政治背景。但如果说到民粹主义作为一种反建制的世界观，其实早在特朗普之前便已登场，而且与过去和未来的许多情景息息相关。一言以蔽之，在民粹主义者眼里，信息就是一种武器。</p>
+      <guid isPermaLink="false">reading-2026-08-12-2</guid>
+      <pubDate>Wed, 12 Aug 2026 05:00:23 +0800</pubDate>
+      <description>Andy McKenzie, “Transcript of Sam Altman’s Interview Touching on AI Safety,” LessWrong , Jan. 21, 2023, www.lesswrong.com/posts/PTzsEQXkCfig9A6AS/transcript-of-sam-altman-s-interview-touching-on-ai-sa</description>
+      <content:encoded><![CDATA[<blockquote style="border-left:3px solid #999;margin:0 0 1.2em;padding:0.2em 0 0.2em 0.9em;color:#555;"><p><b>📌 上一篇回顾（《智人之上：从石器时代到AI时代的信息网络简史》第2篇）</b></p><p>本篇讲民粹主义的信息观：民粹者视信息为武器，认定官僚、媒体、科学家等精英机构都在说谎，世上没有客观真理、只有权力斗争——此看法可溯至福柯、马克思的左翼批判。民粹以「自己研究」或神启、魅力领袖来化解矛盾，均行不通。作者主张信息既非真理也非纯武器，应取中间立场，并预告全书三部分：信息网络史、AI非生物网络、计算机政治学。</p></blockquote><li><p>Andy McKenzie, “Transcript of Sam Altman’s Interview Touching on AI Safety,”<span>LessWrong</span> , Jan. 21, 2023, www.lesswrong.com/posts/PTzsEQXkCfig9A6AS/transcript-of-sam-altman-s-interview-touching-on-ai-safety; Ian Hogarth, “We Must Slow Down the Race to God-Like AI,”<span>Financial Times</span>, April 13, 2023, www.ft.com/content/03895dc4a3b7-481e-95cc-336a524f2ac2; “Pause Giant AI Experiments: An Open Letter,” Future of Life Institute, March 22, 2023, futureoflife.org/open-letter/pause-giant-ai-experiments/;Cade Metz, “‘The Godfather of AI’ Quits Google and Warns of Danger,”<span>New York Times</span>,May 1, 2023, www.nytimes.com/2023/05/01/technology/ai-google-chatbot-engineer-quits hinton.html; Mustafa Suleyman, <span>The Coming Wave: Technology, Power, and the Twenty</span> <span>First Century’s Greatest Dilemma</span>, with Michael Bhaskar (New York: Crown, 2023); Walter Isaacson，<span>Elon Musk</span>（London：Simon & Schuster，2023）.</p></li>
+<li><p>Yoshua Bengio et al., “Managing AI Risks in an Era of Rapid Progress,”<span>Science</span> （即将发表）.</p></li>
+<li><p>Katja Grace et al., “Thousands of AI Authors on the Future of AI,”（预印本，2024年交稿）,https://arxiv.org/abs/2401.02843.</p></li>
+<li><p>“The Bletchley Declaration by Countries Attending the AI Safety Summit, 1–2 November 2023,” Gov.UK, Nov. 1 2023, www.gov.uk/government/publications/ai-safety- summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the ai-safety-summit-1-2-november-2023.</p></li>
+<li><p>“匿名者Q”组织（QAnon）是一个源自互联网的阴谋论集合，其影响力主要集中在美国。其核心阴谋论是美国表面的政府内部存在一个“深层政府”，它由犹太金融家、资本巨鳄、好莱坞精英等构成的集团把持。总的来说，这是一个充满极端和虚假信息的阴谋论集合（本书第六章对该事件有详细论述）。——编者注</p></li>
+<li><p>反疫苗者（anti-vaxxer），是指那些反对或拒绝接种疫苗的人群。他们普遍对疫苗持有怀疑态度，认为疫苗有害，或者认为制药公司和其他相关部门掩盖了疫苗的潜在风险。——编者注</p></li>
+<li><p>Jan-Werner Müller, <span>What Is Populism</span> ? (Philadelphia: University of Pennsylvania Press, 2016).</p></li>
+<li><p>地平论者（flat-earther）是一个坚持认为地球是平的而非球形的群体，其观点在科学上已被证明是错误的。但他们所代表的怀疑精神和独立思考的态度在一定程度上也促进了科学的发展和进步。——编者注</p></li>
+<li><p>在柏拉图的《理想国》中，色拉叙马霍斯、格劳孔与阿德曼托斯认为，所有人（特别是政治人物、法官与公仆）都只在意个人的利益，为此不惜欺瞒和说谎。他们挑战苏格拉底，问他怎么反驳“外貌凌越真理”以及“正义只是强者的利益”。类似的观点在古印度的经典著作《政事论》中也被提及，并偶尔得到支持。在中国古代法家思想家的著作中，如韩非子和商鞅，也有类似的讨论。在早期现代欧洲思想家的著作中，如马基雅维利和霍布斯，也有相关的论述。参见：Roger Boesche，<span>The First Great Political Realist：Kautilya and His</span> <span>“Arthashastra”</span>（Lanham，Md.：Lexington Books，2002）; Shang Yang,<span>The Book of Lord Shang: Apologetics of State Power in Early China</span>, trans. Yuri Pines (New York: Columbia University Press, 2017).</p></li>
+<li><p>Ulises A. Mejias and Nick Couldry, <span>Data Grab: The New Colonialism of Big Tech and</span> <span>How to Fight Back</span> (London: Ebury, 2024); Michel Foucault, <span>The Birth of the Clinic: An</span> <span>Archaeology of Medical Perception</span> (New York: Vintage Books, 1975); Michel Foucault,<span>The History of Sexuality</span> (New York: Vintage Books, 1990); Edward W. Said, <span>Orientalism</span>(New York: Vintage Books, 1994); Aníbal Quijano, “Coloniality and Modernity/Rationality,” <span>Cultural Studies</span> 21, no. 2–3 (2007): 168–78; Sylvia Wynter, “Unsettling the Coloniality of Being-Power-Truth-Freedom Toward the Human, After Man, Its Overrepresentation — an Argument,”<span>New Centennial Review</span> 3，no. 3（2003）：257–337.更深入的讨论请参见：Francis Fukuyama，<span>Liberalism and Its Discontents</span>（London：Profile Books，2022）.</p></li>
+<li><p>卡·马克思，弗·恩格斯．共产党宣言[M]//马克思恩格斯全集：第四卷。中共中央马克思恩格斯列宁斯大林著作编译局，译.1版。北京：人民出版社，1958:465-466.</p></li>
+<li><p>Donald J. Trump, Inaugural Address, Jan. 20, 2017, American Presidency Project, www.presidency.ucsb.edu/node/320188.</p></li>
+<li><p>Cas Mudde, “The Populist Zeitgeist,”<span>Government and Opposition</span> 39, no. 3 (2004): 541–63.</p></li>
+<li><p>Sedona Chinn and Ariel Hasell, “Support for ‘Doing Your Own Research’ Is Associated with COVID-19 Misperceptions and Scientific Mistrust,”<span>Misinformation Review</span>, June 12, 2023,misinforeview.hks.harvard.edu/article/support-for-doing-your-own-research-is-associated-with-covid-19-misperceptions-and-scientific-mistrust/ .</p></li>
+<li><p>参见：“God's Enclosed Flat Earth Investigation — Full Documentary [HD]，” YouTube，www.youtube.com/watch?v=J6CPrGHpmMs, 引自“Disinformation and Echo Chambers: How Disinformation Circulates on Social Media Through Identity-Driven Controversies,”<span>Journal</span> <span>of Public Policy and Marketing</span> 42, no. 1 (2023): 18–35.</p></li>
+<li><p>参见：David Klepper，“Trump Arrest Prompts Jesus Comparisons：'Spiritual Warfare，'” Associated Press，April 6，2023，apnews.com/article/donald-trump-arraignment-jesus-christ-conspiracy-theory-670c45bd71b3466dcd6e8e188badcd1d; Katy Watson, “Brazil Election: ‘We’ll Vote for Bolsonaro Because He Is God,’” BBC, Sept. 28, 2022, www.bbc.com/news/world-latin-america-62929581.</p></li>
+<li><p>Oliver Hahl, Minjae Kim, and Ezra W. Zuckerman Sivan, “The Authentic Appeal of the Lying Demagogue: Proclaiming the Deeper Truth About Political Illegitimacy,”<span>American</span> <span>Sociological Review</span> 83, no. 1 (2018): 1–33.</p></li>
 <div>
-<img src="https://turing-42.github.io/reading-feed/images/data-url-image2.jpeg"/>
-<h5>民粹的信息观</h5>
+<img src="https://turing-42.github.io/reading-feed/images/data-url-image1.png"/>
 </div>
-<p>更极端的民粹主义会认为世上根本没有什么客观真理，每个人都有自己的真理，并想以此来压倒对手。这种世界观认为，只有权力才是唯一的现实。所有的社会互动都是权力斗争，人类真正感兴趣的也唯有权力。声称自己对其他事物（比如真理或正义）感兴趣，只是用来取得权力的策略。无论何时何地，当民粹主义成功地让人们觉得信息就是一种武器而进行传播时，语言本身就会受到损害。不论是“事实”这样的名词，还是“准确的”“真实的”这样的形容词，都会变得语义模糊，似乎无法指向一个共同的客观现实。这种时候，只要一谈到“事实”或“真相”，就会引起一部分人质疑：“你说的是谁的事实、谁的真相？”</p>
-<p>但这里应该强调，这种重视权力、对信息持高度怀疑态度的信息观其实由来已久，绝不是反疫苗者、地平论者以及博索纳罗或特朗普支持者等人的发明。早在2016年之前，有人就已经提出了类似的观点，而且有些还是史上最聪明的一群人。比如在20世纪末，就有米歇尔·福柯和爱德华·萨义德这样的左翼知识分子认为，医院与大学这样的科学机构不是为了追求什么永恒客观的真理，而是利用权力来决定什么是真理，为资本主义与殖民主义精英服务。这些激进的批评者甚至有时候会认为，“科学事实”也只是资本主义或殖民主义的“话语”，当权者永远不会真正对真理与真相感兴趣，也绝不能相信这些人会承认并改正自己的错误。</p>
-<p>左翼革命派的思想路线可以追溯到马克思。1848年的《共产党宣言》就指出：“至今所有一切社会的历史都是阶级斗争的历史。自由民和奴隶，贵族和平民，地主和农奴，行会师傅和帮工，简短些说，压迫者和被压迫者，始终处于相互对抗的地位，进行不断的，有时隐蔽，有时公开的斗争。”这种对历史的二元诠释意味着，人类的每一次互动都是压迫者与被压迫者之间的权力斗争。这样一来，某人说了某句话，最重要的问题不是说的内容是什么、说的是不是事实，而是这句话是谁说的、他为谁的特权服务。</p>
-<p>当然，像特朗普和博索纳罗这样的右翼民粹主义者不太可能认真读过福柯或马克思的著作，而且他们也表现出一副强烈反对马克思主义的样子。至于他们在税收与福利等领域所提出的政策也看不出半点儿马克思主义。然而讲到社会与信息，他们的基本观点却出人意料地雷同，同样将所有人类之间的互动视为压迫者与被压迫者之间的斗争。比如，特朗普在2017年的就职演说中就宣称：“我们国家首都的一小群人攫取了政府的好处，而人民却承担了代价。”这种言论正是民粹主义的代表，政治学家卡斯·穆德认为民粹主义就是一种“意识形态，认为社会最终会被分成两个内部同质而互相对立的群体，即‘洁净的人民’与‘腐败的精英’”。正如马克思主义者总在声称的，媒体是资产阶级的喉舌，大学等科学机构散布虚假信息，是为了延续资本主义的控制；民粹主义则是指责这些机构以牺牲“人民”的利益为代价，促进“腐败精英”的利益。</p>
-<p>但就像前几个世代的激进反建制运动，如今的民粹主义同样有逻辑不连贯的问题。如果权力是唯一的现实，信息也只是武器，那这对民粹主义本身意味着什么呢？他们是不是一心只想夺权，是不是也总在对我们说谎以骗取权力？</p>
-<p>面对这个难题，民粹主义试着用两种方法来解决。有些民粹主义运动声称自己坚持现代科学的理想，恪守经验主义对一切抱持怀疑态度的传统。他们告诉公众：你们永远不该相信任何机构制度或权威，包括那些自封的民粹主义政党与政治人物。相反，你们应该自己去研究，只相信自己直接观察到的东西。这种激进的经验主义立场认为，虽然我们确实无法永远相信政党、法院、报纸、大学这些大型机构制度，但个人要是足够努力，还是可以找出真相的。</p>
-<p>这种方法或许听起来很科学，也能吸引那些个性自由奔放的人，但还是有个问题无法解决：要是真这么做，人类社群怎样才能真正合作，比如打造出医疗保健系统或是通过环境法规？这些目标的背后都需要有大规模的组织制度配合才行。如果只有一个人，难道他真的可能完成所有必要的研究，确定地球气候是否正在变暖，并找出可行的应对措施？如果只有一个人，他怎么收集世界各地的气候数据，更不用说取得过去几个世纪的可靠记录了。只相信“自己的研究”可能乍听之下很科学，但其实这等于相信世界上没有客观真理。我们在本书第四章就会看到，科学绝不是一种个人的追求，而是机构制度的合作。</p>
-<p>民粹主义提出的另一种解决方法，是放弃现代科学通过“研究”寻找真相的理想，转而依赖神启或神秘主义。基督教、伊斯兰教、印度教等传统宗教，常常把人类描绘成不值得信任、渴求权力的生物，唯有依靠某些神性智慧的介入，才能了解真理与真相。在21世纪10年代到20年代初，从巴西到土耳其，从美国到印度，各地的民粹主义政党都与这类传统宗教牵起了手，一方面彻底质疑现代的机构制度，另一方面却全然深信古代的经文典籍。这些民粹主义者声称，你在《纽约时报》《科学》报刊上读到的文章只是精英主义者用来取得权力的策略，但你在《圣经》《吠陀经》上读到的内容则是绝对真理。</p>
-<p>这种解决方法的另一种形式则是呼吁公众信赖像特朗普或博索纳罗这样的魅力领袖。他们的支持者将这些领袖描绘成上帝的使者，或者说他们和“人民”有着某种神秘的联系。如果是一般政客，他们就会对人民说谎，只为了获得自己的权力；如果是魅力领袖，他们则成了人民的代言人，非但不会出错，还会揭露一切谎言。所以，民粹主义反复出现的悖论之一，就是一开始的时候总在警告大家，所有人类精英都是为了争权夺利，十分危险，但常常到头来又要求人民把所有权力都交给某位充满野心的人。</p>
-<p>第五章会更深入地探讨民粹主义，此处我想强调的一点是，人类目前正在面临生态崩溃、全球战争、技术失控等生存挑战，但民粹主义却在此时侵蚀着我们对大型机构制度与国际合作的信任。民粹主义者不相信复杂的人类机构制度，他们的建议就像法厄同神话与《魔法师学徒》给我们的启示一样：“相信会有神祇或伟大的魔法师介入，让一切恢复正常。”如果我们接受了这种建议，从短期来看，控制我们的可能就是那些对权力欲望旺盛而且是其中最糟糕的一群人，从长期来看，控制我们的可能就是新的人工智能霸主。还有一种可能，随着地球变得不再适合人类生存，我们会发现自己根本无处可去。</p>
-<p>我们如果不想把权力交给某个魅力领袖或是高深莫测的人工智能，首先就得更加了解“信息”究竟是什么，了解信息如何协助建立起人类网络，了解信息与真理、真相以及与权力的关系。民粹主义的正确之处在于对天真的信息观抱持怀疑态度，但偏激之处则在于认为只有权力是唯一的现实，以及信息永远就是一种武器。事实是，信息既不能说肯定能带来真理与真相，但它也不只是一种武器。在这两种极端之间其实还有足够的空间，能让我们以更细致也更充满希望的观点来看待人类的信息网络，看待人类明智地运用权力的可能。本书就是希望能探索这样的中间立场。</p>
-<h3>前方的道路</h3>
-<p>本书第一部分将会概述人类信息网络的历史发展进程。这里并不是要按照世纪的进展，全面讨论文字、印刷术、无线电等信息技术，而是希望通过研究几个范例，探讨各个时代人们在建立信息网络时所面临的关键困境，并研究了当时解决这些困境不同的答案怎样塑造出截然不同的人类社会。有些冲突的成因，我们一般会认为是意识形态或政治上的不同，但实际上往往是信息网络的类型不同。</p>
-<p>在第一部分，我最先考察的是对于大规模人类信息网络至关重要的两个概念：神话故事和官僚制度。在第二章与第三章，我描述了大规模信息网络（从古代王国到现代国家）是如何同时有赖于神话编造者与官僚制度的。举例来说，《圣经》中的故事当然对基督教会至关重要，但要是没有教会的官僚来策划、编辑和传播这些故事，《圣经》也不会有这样的地位。每个人际网络都会面临一个困境，那就是神话编造者与官僚制度常常会往不同的方向发展。各种机构制度与社会的定义，常常取决于它们如何在神话编造者与官僚制度的需求冲突之间达到平衡。例如，基督教就分裂成了天主教和新教等不同的教会，不同的教会正是在神话故事与官僚制度之间取得了不同的平衡。</p>
-<p>第四章的重点是谈论错误信息的问题，以及维持各种自我修正机制（例如独立司法、同行评议期刊）的好处与坏处。这一章将比较不同的机构制度：一类自我修正机制较弱，比如天主教会；另一类自我修正机制较强，比如科学学科。如果自我修正机制较弱，有时候如早期现代欧洲猎巫这样的历史灾难就会出现；但如果自我修正机制较强，有时候它则会从内部破坏网络的稳定性。如果从延续、传播与权力的角度来看，天主教会可以说是人类历史上最成功的机构，尽管其自我修正机制相对较弱（但这或许也是促成其成功的原因）。</p>
-<p>在讨论了神话故事与官僚制度的角色，也比较了自我修正机制强与弱的影响之后，第五章会以另一种对比来结束第一部分的历史讨论：分布式信息网络和集中式信息网络。民主制度会让信息沿着许多独立渠道自由流动，而极权制度则是将所有信息集中在一个核心枢纽，两者各有优劣。谈到美国和苏联等不同的政治体系，如果从信息流的角度来切入，就能解释为何它们有着不同的发展轨迹。</p>
-<p>这本书的历史部分对于我们理解当下和展望未来至关重要。人工智能的兴起可以说是历史上最大的一场信息革命。但要真正理解这场革命，就必须与过去的信息革命做比较。历史真正研究的并不是“过去”，而是“变化”。历史能告诉我们什么是不变的、什么是变化的，以及事物又是如何变化的。这不仅与信息革命，而且与其他类型的历史变革都息息相关。因此，如果能了解过去《圣经》如何一步一步地成为绝对正确的经典，我们就能从中得到宝贵的见解，来洞察当今的人工智能是如何号称绝对不会有误的。同样，研究近现代的猎巫行动和苏联的农业集体化运动，也能提供一个严正的警告，让我们知道如果赋予人工智能更大的权力来掌控21世纪的社会，可能会出现怎样的问题。深入了解历史至关重要，因为它能让我们理解人工智能究竟有哪些是新颖的内容，人工智能与印刷术及无线电广播技术有什么根本差异，以及如果未来出现人工智能独裁，其与过去出现的所有独裁形式又有哪些不同。</p>
-<p>本书并不是说研究过去就能预测未来。我后面还会反复强调，历史不是确定的，未来将由我们所有人在未来几年所做的选择而塑造。我写这本书全部的意义在于，希望我们通过做出明智的选择，防止最糟糕的结果。如果未来真的无法改变，还去讨论未来岂不是浪费时间？</p>
-<p>以第一部分的历史调查为基础，本书第二部分“非生物网络”讨论的是人类如今正在打造的新信息网络，重点关注人工智能兴起的政治意义。第六章到第八章讨论了世界各地近些年发生的例子（比如，2016—2017年社交媒体算法如何在缅甸煽动种族冲突），以解释人工智能与过去所有信息技术的不同之处。之所以例子大多取自21世纪10年代，而不是21世纪20年代，是因为我们对21世纪10年代的事件已经有了一些历史性的观点。</p>
-<p>第二部分提出的论点认为，人类正在创造一个全新的信息网络，却从来没好好想想这有何影响。这里的重点在于，这是一种从生物到非生物信息网络的转变。过去的罗马帝国、天主教会与苏联，都是依靠碳基的人脑来处理信息、做出决策，但主宰新信息网络的硅基计算机的运作方式截然不同。过去，碳基的神经元摆脱不了有机生物化学的种种限制，而无论如何，硅基芯片都能轻松摆脱这些限制。所以，硅基芯片能创造出永远不用睡觉的间谍、永远不会遗忘的金融家和永远不会死去的暴君。这会让社会、经济与政治发生怎样的改变？</p>
-<p>本书的第三部分“计算机政治学”探讨了不同类型的社会如何应对非生物信息网络的威胁与承诺。像我们这样的碳基生命，还有没有机会理解和掌控新的信息网络？如上所述，历史不是确定的，至少在未来几年里，我们智人仍然有能力塑造我们的未来。</p>
-<p>所以，第九章讨论的是民主国家如何处理非生物信息网络的兴起。举例来说，如果整个金融系统越来越受到人工智能的控制，金钱的意义也开始依赖人类无法理解的算法，那么有着血肉之躯的政治人物如何做出金融决策？如果我们不再能判断自己谈话的对象是真人还是伪装成人类的聊天机器人程序，那么民主国家怎样保持对任何议题（不管是金融还是性别）的公开对话？</p>
-<p>第十章则探讨了非生物信息网络可能如何影响极权主义。虽然独裁者很乐意摆脱所有的公开对话，但对人工智能也心存恐惧。独裁政权要想站稳脚跟，就得恐吓和审查自己的代理人。但人类独裁者又怎么可能去恐吓人工智能、去审查人工智能高深莫测的处理程序，或者避免人工智能起身夺权？</p>
-<p>最后的第十一章谈论的是这套新信息网络如何左右全球民主与极权社会之间的权力平衡。人工智能是不是一定会让天平倒向某一边？世界会不会分裂成彼此敌对的集团，所有人都因而成为某种失控的人工智能的猎物？或者，人类能不能团结起来捍卫共同的利益？</p>
-<p>但在开始谈信息网络的过去、现在和可能的未来之前，我们得先谈谈一个看似简单的问题——信息究竟是什么。</p>
-<li><p>Sean McMeekin, <span>Stalin’s War: A New History of World War II</span> (New York: Basic Books, 2021).</p></li>
-<li><p>“Reagan Urges ‘Risk’ on Gorbachev: Soviet Leader May Be Only Hope for Change, He Says,”<span>Los Angeles Times</span>, June 13, 1989, www.latimes.com/archives/la-xpm-1989-06-13mn-2300-story.html.</p></li>
-<li><p>White House, “Remarks by President Barack Obama at Town Hall Meeting with Future Chinese Leaders,” Office of the Press Secretary, Nov. 16, 2009, obamawhitehouse.archives.gov/the-press-office/remarks-president-barack-obama-town-hall-meeting-with-future-chinese-leaders.</p></li>
-<li><p>Evgeny Morozov，<span>The Net Delusion：The Dark Side of Internet Freedom</span>（New York：Public Affairs，2012）.</p></li>
-<li><p>Christian Fuchs，“An Alternative View of Privacy on Facebook，”<span>Information</span> 2，no. 1（2011）：140–65.</p></li>
-<li><p>Ray Kurzweil, <span>The Singularity Is Nearer: When We Merge with AI</span> (London: The Bodley Head, 2024), 121–23.</p></li>
-<li><p>Sigrid Damm, <span>Cornelia Goethe</span> (Berlin: Insel, 1988), 17–18; Dagmar von Gersdorff,<span>Goethes Mutter</span> (Stuttgart: Hermann Bohlaus Nachfolger Weimar, 2004); Johann Wolfgang von Goethe, <span>Goethes Leben von Tag zu Tag: Eine dokumentarische Chronik</span> (Dusseldorf:Artemis, 1982), 1:1749–75.</p></li>
-<li><p>Stephan Oswald, <span>Im Schatten des Vaters. August von Goethe</span> (Munich: C. H. Beck, 2023);Rainer Holm-Hadulla, <span>Goethe’s Path to Creativity: A Psycho-biography of the</span> <span>Eminent Politician, Scientist, and Poet</span> (New York: Routledge, 2018); Lisbet Koerner,“Goethe’s Botany: Lessons of a Feminine Science,”<span>History of Science Society</span> 84, no. 3(1993): 470–95; Alvin Zipursky, Vinod K. Bhutani, and Isaac Odame, “Rhesus Disease: A Global Prevention Strategy,”<span>Lancet Child and Adolescent Health</span> 2, no. 7 (2018): 536–42;John Queenan, “Overview: The Fetus as a Patient: The Origin of the Specialty,” in <span>Fetal</span> <span>Research and Applications: A Conference Summary</span> (Washington, D.C.: National Academies Press, 1994), accessed Jan. 4, 2024, www.ncbi.nlm.nih.gov/books/NBK231999/.</p></li>
-<li><p>John Knodel, “Two and a Half Centuries of Demographic History in a Bavarian Village,”<span>Population Studies</span> 24, no. 3 (1970): 353–76.</p></li>
-<li><p>Saloni Dattani et al., “Child and Infant Mortality,” Our World in Data, 2023, accessed Jan. 3, 2024, ourworldindata.org/child-mortality#mortality-in-the-past-around-half-died-as-children.</p></li>
-<li><p>Ibid..</p></li>
-<li><p>“Most Recent Stillbirth, Child, and Adolescent Mortality Estimates,” UN Inter-agency Group for Child Mortality Estimation, accessed Jan. 3, 2024, childmortality.org/data/Germany.</p></li>
-<li><p>根据一项估计，亚历山大图书馆的信息量约为1000亿比特，约12.5 GB（吉字节）。参见：Douglas S. Robertson，“The Information Revolution，”<span>Communication Research</span> 17，no. 2（1990）：235–54.截至2020年，每部安卓手机的平均容量为96 GB。参见：Brady Wang，“Average Smartphone NAND Flash Capacity Crossed 100GB in 2020，” Counterpoint Research，March 30，2021，www.counterpointresearch.com/average-smartphone-nand-flash-capacity-crossed-100gb-2020/.</p></li>
-<li><p>Marc Andreessen, “Why AI Will Save the World,” Andreessen Horowitz, June 6, 2023, a16z.com/ai-will-save-the-world/.</p></li>
-<li><p>Ray Kurzweil, <span>The Singularity Is Nearer: When We Merge with AI</span> (London: The Bodley Head, 2024), 285.</p></li>]]></content:encoded>
+<h1><span>第一部分</span><br/> 人类网络</h1>
+<div>
+<p>智人之所以成功，</p>
+<p>秘诀在于懂得运用信息，并把许多人联结起来。</p>
+<p>但很遗憾，</p>
+<p>人类在拥有这种能力的同时，</p>
+<p>常常也伴随着相信谎言、错误与幻想。</p>
+</div>
+<h1><span>第一章</span><br/> 信息是什么？</h1>
+<p>最基本的概念总是很难定义。因为后续的一切都以这些概念作为基础，反而让人难以想象这些概念背后还能有什么更基本的概念。就像物理学家很难去定义物质与能量，生物学家很难去定义生命，而哲学家也很难去定义现实。</p>
+<p>许多哲学家、生物学家，甚至还有一些物理学家，已经越来越多地把信息视为现实的最基本要素，甚至比物质或能量还基本。这也就难怪，现在谈到该如何定义信息，谈到信息与生命演化、信息与各种物理基本概念（比如熵、热力学定律、量子力学的不确定性原理）之间关系的时候，总有许多争议。本书并没打算解释甚至解决这些争议，也没有要为“信息”提出一套在物理学、生物学与其他任何知识领域都能通用的定义。因为这就是一本谈历史的著作，研究的是人类社会的过去与未来发展，所以我们讨论的重点也就集中于信息在历史中的定义与作用。</p>
+<p>通常情况下，信息是与各种人造符号（例如口语或书面语）联系在一起的。以军鸽谢尔·阿米与被困营这个故事为例。1918年10月，美国远征军正试图从德国手中夺回法国北部，一个由超过500名美国官兵组成的营受困敌后。美军炮兵想为他们提供火力掩护，却搞错了这群官兵的位置，结果炮火直接落在他们头上。该营指挥官查尔斯·惠特尔西少校急需让总部知道他们的确切位置，但没有任何士兵能够突破德军的防线。许多说法指出，惠特尔西最后的希望就是一只名为谢尔·阿米的军鸽。惠特尔西在一张小纸条上写着：“我们沿着平行于276.4的道路前行。我方的炮火就落在我们的位置上，拜托赶快停下来。”这张纸条被放进一个小筒里，之后绑在谢尔·阿米的右腿上，然后将它放飞。该营的二等兵约翰·内尔多年后回忆说：“我们非常清楚，那是我们最后的机会。要是那只孤孤单单又吓坏了的鸽子没能飞回鸽舍，我们的命运就注定了。”</p>
+<p>目击者后来讲到谢尔·阿米是怎样飞入德军的猛烈炮火中的。有枚炮弹就在它的正下方爆炸，炸死了5个人，它也身受重伤。一块儿碎片撕裂了谢尔·阿米的胸口，它的右腿几乎被炸断，只剩一条肌腱连着。但谢尔·阿米撑过去了。这只身负重伤的信鸽花了大约45分钟，飞了40千米到达师部，右腿残肢上还绑着那个装有重要信息的小筒。虽然各方对确实的细节还有争议，但显然美军调整了炮火的方向，并发动了一轮反击，拯救了这个被困营。谢尔·阿米后来经过军医照料，作为英雄被送至美国，成了许多文章、短篇故事、儿童读物、诗歌甚至电影的主题。这只鸽子根本不懂自己送了什么信息，但正是它递送的纸条上所记录的符号，拯救了几百人，使他们免于战死或被俘。</p>
+<p>然而，信息的组成不一定非要靠人造符号。就像《圣经》里的那场洪水，挪亚之所以能知道洪水终于退去，是因为他从方舟里放出去的鸽子叼着橄榄枝回来了。接着上帝在云中划出一道彩虹，作为他立约的神圣记号，承诺不再用洪水淹没地球。鸽子、橄榄枝与彩虹从此也成了和平与宽容的象征符号。甚至有些比彩虹更远的物体，也能成为信息。对天文学家来说，星系的形状与运行都是重要的信息，它们诉说着宇宙的历史。对航海家来说，北极星能让人知道哪里是北方。对占星师来说，满天星斗就是宇宙的脚本，这些信息透露着个人与整个社会的未来。</p>
+<p>当然，要不要把某个事物定义为信息是视角的问题。虽然天文学家或占星师可能会认为天秤座是一个“信息”，但这些遥远的星星可不只是人类观察者的布告栏。这些星星上可能有个外星文明，完全不知道我们从他们的家园获取了怎样的信息，又讲述了怎样的故事。同样，一张有着墨迹的纸条，虽然对一支军队来说可能是至关重要的信息，但也可能是一群白蚁的大餐。任何事物都可能是信息，但也可能不是。这样一来，就让定义信息这件事变得十分困难。</p>
+<p>在军事间谍史上，间谍必须秘密传递各种信息，而信息的这种不确定性就扮演了重要的角色。第一次世界大战的主要战场并不只有法国北部。1915—1918年，英国与奥斯曼帝国也争夺着中东地区的控制权。英国先是击退奥斯曼帝国对西奈半岛与苏伊士运河的进犯，接着反过来便入侵了奥斯曼帝国。但在1917年10月之前，奥斯曼帝国从贝尔谢巴延伸到加沙的防线一直固若金汤。无论是第一次加沙战役（1917年3月26日）还是第二次加沙战役（1917年4月17—19日），英国都难越雷池一步。与此同时，在巴勒斯坦的亲英犹太人成立了一个间谍网络，代号为尼利（NILI），负责将奥斯曼军队的动态向英国通风报信，而他们找到的与英军传递信息的方法之一就是百叶窗。当时尼利有一位指挥官叫萨拉·阿伦索恩，她有一所俯瞰地中海的房子。依据一套事先约定的密码，她只要关上或打开某扇百叶窗，就能把信息传递给海上的英国船只。包括奥斯曼的士兵在内，许多人都能清清楚楚看到那扇百叶窗，但只有尼利的特工与英方的情报人员才知道那代表着什么重要的军事信息。所以，什么时候百叶窗就只是单纯的百叶窗，什么时候百叶窗又是在传递一则信息呢？</p>
+<p>奥斯曼人最后破获了尼利间谍网，部分原因是一场奇怪的意外。当时尼利除了用百叶窗，也会用信鸽来传递密码信息。1917年9月3日，一只信鸽飞偏了，就这么不巧，降落到一名奥斯曼军官的家里。那位军官虽然发现了密码信息，却破译不出来。然而，信鸽本身就已经是极关键的信息了，这等于告诉奥斯曼人，有个间谍组织正在他们的眼皮子底下活动。在说过“媒介即信息”的马歇尔·麦克卢汉看来，那只鸽子本身就是信息。尼利的特工得知那只信鸽被捕获之后，立刻把他们手里剩下的信鸽全部杀掉埋了，因为当时只要拥有信鸽，就等于透露了一则有罪的信息。然而，这场信鸽大屠杀并没能拯救尼利。这起间谍案在一个月内被破获，几名成员遭到处决，萨拉·阿伦索恩则选择了自杀，以免自己受不了酷刑而泄露尼利的机密。所以，什么时候鸽子只是单纯的鸽子，什么时候鸽子又是一则信息呢？</p>
+<p>显然，信息的定义绝不限于某种特定类型的实体对象。任何物体，比如星星、百叶窗、鸽子，只要放到正确的情境下，就可能成为信息。那么，到底什么样的情境会把这些对象定义成信息呢？天真的信息观认为，只要情境是为了寻求真相，这些对象就能被定义成信息。换句话说，只要打算用某个对象来找出真相，那么这个对象就是信息。这种观点将“信息”与“真相”这两个概念联系起来，并假设信息的主要作用就是把现实呈现出来。既然世界上有个现实就摆在那里，而所谓信息就是能够呈现出现实的对象，我们当然就能用信息来了解现实。举例来说，尼利向英国提供的信息，是为了呈现关于奥斯曼军队动态的现实。要是奥斯曼帝国在加沙（其防御重镇）集结了一万名士兵，只要有一张纸条，以符号的形式表现出“一万人”与“加沙”，这张纸条就可能是一条重要信息，有助于英国赢得这场战斗。但如果在加沙的奥斯曼军队实际上已达到两万人，那张纸条不仅未能准确呈现出现实，而且可能让英国犯下灾难性的军事错误。</p>
+<p>换言之，天真的信息观认为信息就是要试着呈现出现实，如果成功，我们就会说这条信息是个真相。虽然本书对于天真的信息观多有异议，但对于真相就是对现实的准确呈现这一点倒是所见略同。不过本书同时也认为，多数信息并不是想要呈现现实，真正能够定义信息的完全是另一套标准。无论在人类社会还是在其他生物与物理系统，大多数信息并没有要呈现出任何东西。</p>
+<p>这个复杂而关键的论点是本书的理论基础，所以这里请容我再多花点儿时间来谈谈。</p>
+<h3>真相究竟是什么？</h3>
+<p>本书所谓的“真相”，代表的是能够准确呈现出现实的特定方面。真相概念的前提是必须真的存在某个普遍的现实。宇宙中曾经或即将存在的任何事物（从北极星、尼利的信鸽再到占星学的网页），都是这个单一现实的一部分。正因如此，寻求真相就成为一项普遍的工程。虽然不同的个人、国家或文化可能有不同的信念或感受，但由于所有人都共享一个普遍的现实，所以不可能有相互矛盾的真相。这样一来，如果不相信普遍主义，就等于拒绝了真相。</p>
+<p>然而，真相其实并不直接等于现实，因为一则叙事无论多么贴近真相，都无法真正呈现出现实的所有方面。如果尼利特工在纸条上写着加沙有一万名奥斯曼士兵，而且加沙也确实有一万名士兵，这虽然准确地指出了现实的某个方面，却也忽略了许多其他方面。光是计算某种实体的数量（不管算的是苹果、橘子还是士兵），就必然会把注意力集中在这些实体之间的相似性上，但同时也忽略了它们之间的差异性。举例来说，只讲加沙有一万名奥斯曼士兵，但没有说明其中有一些是久经沙场的老兵，有一些是初上战场的新兵。1000名新兵搭9000名老兵，与9000名新兵搭1000名老兵，在军事上的现实可是完全不同的。</p>
+<p>士兵之间的差异还不是只有沙场经验。有些很健康，有些在生病；一些奥斯曼军人是土耳其人，而另一些是阿拉伯人、库尔德人或犹太人；有些很勇敢，有些却很懦弱。事实上，每个士兵都是独一无二的，他们有各自的父母和朋友，也有各自的恐惧与渴望。一战时期，像威尔弗雷德·欧文这样的诗人就曾试图表现出军事表象背后的东西，而那是单纯的统计数据所无法准确传达的。但这是不是就意味着光写下“一万名士兵”肯定就扭曲了现实？难道要描述1917年加沙周围的军事局势，就必须完整写出每个士兵独特的历史与个性？</p>
+<p>想要呈现出现实的另一个问题就是现实总包含许多不同的观点。比如，讲到英国入侵奥斯曼帝国、尼利这个间谍组织，以及萨拉·阿伦索恩所做的事，你问问现在的以色列人、巴勒斯坦人、土耳其人和英国人，他们肯定会有不同的意见。当然，这并不意味着同时有许多各自独立的现实，也不意味着没有历史事实这回事。现实始终只有一个，但现实却十分复杂。</p>
+<p>现实包括客观层面的客观现实，不受个人信念的影响。例如萨拉·阿伦索恩在1917年10月9日身亡，死因是开枪自杀，这就是一项客观现实。如果说“萨拉·阿伦索恩在1919年5月15日死于飞机失事”，那就是一个错误。</p>
+<p>然而，现实也包括主观层面的主观现实，涵盖的是每个人的信念和感受，在这种时候，我们并不会说这些现实是错误的。举例来说，以色列人多半会认为阿伦索恩是一位爱国英雄，这是一个事实。在她自尽三周后，英国在尼利提供的信息协助下，终于在贝尔谢巴战役（1917年10月31日）与第三次加沙战役中（1917年11月1—2日）突破了奥斯曼帝国的防线。1917年11月2日，英国外交大臣阿瑟·贝尔福发表了“贝尔福宣言”，宣布英国政府“赞同地看待在巴勒斯坦建立一个犹太人的民族家园”。在以色列人看来，这部分归功于尼利与萨拉·阿伦索恩，以色列人对后者的牺牲也十分钦佩。但在巴勒斯坦人看来，评价就完全不同，并形成了另一个截然不同的现实：他们对阿伦索恩毫无钦佩之情，要么压根儿没听说过这个人，要么觉得她单纯是个帝国主义的特工。虽然我们这里谈的是主观看法与感受，但我们仍然可以将真相与谎言区分开来。因为看法与感受——像星星和鸽子一样——都是普遍现实的一部分。如果说“萨拉·阿伦索恩因为在击败奥斯曼帝国的过程中所扮演的角色受到所有人的钦佩”，这会是一个错误，是与现实不相符的。</p>
+<p>影响人们观点的因素，绝不只有国籍一个。光是在以色列，男性或女性、左翼或右翼、正统派或世俗派的犹太人，都可能对阿伦索恩有不同的看法。由于犹太教禁止自杀，所以正统派犹太人很难把阿伦索恩的自杀看成一种英雄行为（事实上，她未能获准埋葬在圣地的犹太人公墓里）。最终，每个人都会对世界有不同的观点，每种观点都是由每个人不同的个性与生活经验集合而成的。这是否意味着，我们如果要描述现实，就必须列出其中的所有观点？比如，如果要写一部关于萨拉·阿伦索恩的传记，就得明确写出所有以色列人与巴勒斯坦人对她的感受？</p>]]></content:encoded>
     </item>
   </channel>
 </rss>
